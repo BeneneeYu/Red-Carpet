@@ -1,0 +1,16 @@
+
+`
+java:S2095K"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(¸™á…
+`	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(À•¬¢ûÿÿÿÿ
+a	java:S112Ù"FDefine and throw a dedicated exception instead of using a generic one.(®±“±ùÿÿÿÿ
+[	java:S112ò"FDefine and throw a dedicated exception instead of using a generic one.(þÞ°x
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+W
+java:S1128"BRemove this unused import 'cn.edu.fudan.redcarpet.util.TimeUtils'.(¹âÉ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+j
+java:S41441"TUpdate this method so that its implementation is not identical to "test" on line 41.(þÃõÔ
+H
+java:S1874Ÿ",Remove this use of "Date"; it is deprecated.(«ïÙÓýÿÿÿÿ
